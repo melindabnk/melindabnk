@@ -1,4 +1,4 @@
-# Hi, I'm Melinda 👋
+# Hi, I'm Melinda 😁
 
 Junior C# / .NET developer based in Belgium.
 I build software projects, interactive applications and prototypes.
