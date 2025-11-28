@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Melinda 👋
 
-<!--
-**melindabnk/melindabnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior C# / .NET developer based in Belgium.
+I build software projects, interactive applications and prototypes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+### 🗂 Featured Projects
+- 🎮 **Drive With Gods** — Unity prototype  
+- 🧩 **Endless Runner** — Gameplay systems  
+- 🌐 **Phaser Game** — Web project  
+- ⚙️ **Console Projects** — C# fundamentals
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=melindabnk&show_icons=true&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melindabnk&layout=compact&theme=dark)
+
+---
+
+### 🔗 Links
+- GitHub: https://github.com/melindabnk
+- Itch.io: https://melindahg.itch.io
+- LinkedIn: (ton lien)
