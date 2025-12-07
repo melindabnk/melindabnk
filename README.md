@@ -23,10 +23,11 @@ I build software projects, interactive applications and prototypes.
 
 ---
 
-### 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=melindabnk&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/melindabnk?style=flat-square&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/melindabnk?style=flat-square&color=blueviol
+> 🧾 Snapshot  
+> - Mainly working in **C# / Unity**  
+> - Building **game prototypes** and **interactive applications**  
+> - Exploring **web games** with **Phaser**  
+> - Comfortable with **Git / GitHub** for version control
 
 ---
 
