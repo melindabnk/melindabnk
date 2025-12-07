@@ -30,5 +30,5 @@ I build software projects, interactive applications and prototypes.
 ---
 
 ### 🔗 Links
-- Itch.io: https://melindahg.itch.io
+- Itch.io: [https://melindahg.itch.io](https://melindahlg.itch.io/)
 - LinkedIn: https://www.linkedin.com/in/melindabankovic/
