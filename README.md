@@ -24,7 +24,10 @@ I build software projects, interactive applications and prototypes.
 ---
 
 📊 Overview
-<p align="left"> <img src="https://img.shields.io/badge/Projects-Game%20Prototypes-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Focus-Unity%20C%23-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Learning-Shaders%20%26%20Architecture-blueviolet?style=for-the-badge"/> </p>
+## GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melindabnk&theme=dracula)
+
 
 
 ---
