@@ -23,11 +23,13 @@ I build software projects, interactive applications and prototypes.
 
 ---
 
-> 🧾 Snapshot  
-> - Mainly working in **C# / Unity**  
-> - Building **game prototypes** and **interactive applications**  
-> - Exploring **web games** with **Phaser**  
-> - Comfortable with **Git / GitHub** for version control
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
