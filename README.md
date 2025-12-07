@@ -24,8 +24,9 @@ I build software projects, interactive applications and prototypes.
 ---
 
 ### 📊 GitHub Stats
-![Melinda's GitHub Stats](https://github-readme-stats-mu-ten.vercel.app/api?username=melindabnk&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-mu-ten.vercel.app/api/top-langs/?username=melindabnk&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=melindabnk&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/melindabnk?style=flat-square&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/melindabnk?style=flat-square&color=blueviol
 
 ---
 
