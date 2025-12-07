@@ -27,6 +27,8 @@ I build software projects, interactive applications and prototypes.
 ## GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melindabnk&theme=dracula)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melindabnk&theme=dracula)
+
 
 
 
