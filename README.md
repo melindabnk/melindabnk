@@ -24,8 +24,8 @@ I build software projects, interactive applications and prototypes.
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=melindabnk&show_icons=true&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melindabnk&layout=compact&theme=dark)
+![Melinda's GitHub Stats](https://github-readme-stats-mu-ten.vercel.app/api?username=melindabnk&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-mu-ten.vercel.app/api/top-langs/?username=melindabnk&layout=compact&theme=tokyonight)
 
 ---
 
